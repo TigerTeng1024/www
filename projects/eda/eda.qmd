@@ -1,0 +1,18 @@
+---
+title: "EDA Project"
+description: "eda during CMU Camp"
+date: July 2024
+about: 
+  template: solana
+  image: cover.png
+  links: 
+    - icon: github
+      text: "GitHub"
+      href: https://github.com/TigerTeng1024/Lab-Application
+      target: _blank
+    - icon: laptop
+      text: Slides
+      href: https://docs.google.com/presentation/d/1GJTmNTck7oN17UNmIDgNDp1s6aU40wCVYwmZQqpjlS0/edit?usp=sharing
+    - text: Poster
+    - text: Report
+---

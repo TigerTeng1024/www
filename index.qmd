@@ -1,0 +1,21 @@
+---
+title: "www"
+about: 
+  template: jolla
+  image: Assets/Tiger Teng.jpg
+  image-shape: rectangle
+  links: 
+    - icon: envelope
+      text: Email
+      href: mailto:jteng@unc.edu
+    - icon: github
+      text: GitHub
+      href: https://github.com/TigerTeng1024
+      target: _blank
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/tiger-jinghao-teng-33a74b21a/
+      target: _blank
+---
+
+Welcome to my website! I am Tiger Teng. I am a senior undergraduate student at University of North Carolina at Chapel Hill.

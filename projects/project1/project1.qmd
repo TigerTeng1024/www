@@ -1,0 +1,16 @@
+---
+title: "project1"
+description: "Project1 during CMU Camp"
+date: July 2024
+about: 
+  template: solana
+  image: cover.png
+  links: 
+    - icon: github
+      text: "GitHub"
+      href: https://github.com/TigerTeng1024/Lab-Application
+      target: _blank
+    - text: Slides
+    - text: Poster
+    - text: Report
+---
